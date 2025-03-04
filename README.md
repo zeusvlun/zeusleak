@@ -16,19 +16,17 @@ ZeusLeak is a browser extension that automatically detects leaked secrets and cr
 
 ## Installation
 
-Clone this repository:
+- Clone this repository:
 
-'git clone https://github.com/zeusvuln/zeusleak.git'
+git clone https://github.com/zeusvuln/zeusleak.git
 
-Open your browser's extensions page:
+- Open your browser's extensions page:
 
-Chrome: Navigate to chrome://extensions/
+- Chrome: Navigate to chrome://extensions/
 
-Firefox: Navigate to about:addons
+- Enable "Developer Mode" (if required by the browser).
 
-Enable "Developer Mode" (if required by the browser).
-
-Click on "Load Unpacked" and select the cloned zeusleak directory.
+- Click on "Load Unpacked" and select the cloned zeusleak directory.
 
 ## Usage
 
